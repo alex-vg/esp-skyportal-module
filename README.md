@@ -4,7 +4,7 @@ This little project was inspired by finding a cheaper alternative to the Celestr
 
 If you like this project, you can buy me a beer. Cheers!
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EXLLPE9R83AXW&source=url)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=H9MLT8Z9DL7YN)
 
 ### needed stuff:
 ![esp32 pinout](esp32_pinout.jpg)
